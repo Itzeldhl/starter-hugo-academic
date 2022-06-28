@@ -1,5 +1,5 @@
 ---
-title: Itzel De  Haro
+title: Itzel De Haro
 role: PhD student in Applied Economics
 bio: "My research interests are in Development Economics and Labor Economics.  "
 interests:
